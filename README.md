@@ -48,7 +48,7 @@ A robust foundation for modern Android applications, featuring a clean MVVM arch
 2. Create a new repository from the template
 3. Clone the repository
 ```bash
-git clone https://github.com/msomu/base-mvvm-android-kt.git
+git clone https://github.com/tharik15/BaseMVVM-AndroidKt.git
 ```
 
 4. Open the project in Android Studio
@@ -68,7 +68,7 @@ git clone https://github.com/msomu/base-mvvm-android-kt.git
 
 ```
 app/src/main/
-├── java/com/msomu/androidkt/
+├── java/com/tharik/androidkt/
 │   ├── di/           # Dependency injection modules
 │   ├── model/        # Data models
 │   ├── network/      # API services and network utilities
@@ -105,11 +105,11 @@ The project includes both unit tests and instrumented tests:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 📫 Contact
+## 📫 Credits
 
 Somasundaram Mahesh - [@msomu](https://github.com/msomu)
 
-Project Link: [https://github.com/msomu/base-mvvm-android-kt](https://github.com/msomu/base-mvvm-android-kt)
+Project Link: [https://github.com/tharik15/BaseMVVM-AndroidKt]
 
 ## 🙏 Acknowledgments
 
